@@ -1,6 +1,7 @@
 # GitHub HQ hackathon retrospective
 
 ## Who hosted:
+
 - [@jglovier](http://github.com/jglovier)
 - [@tangollama](http://github.com/tangollama)
 
@@ -14,16 +15,16 @@
 - [@parkr](http://github.com/parkr)
 - [@tracicakes](http://github.com/)
 - [@warain](http://github.com/warain)
-- [@](http://github.com/)
-- [@](http://github.com/)
 
 Participated remotely:
+
 - [@billybonks](http://github.com/)
 - [@gnowoel](http://github.com/gnowoel)
 - [@jscottchapman](http://github.com/jscottchapman)
 
 
 ## What we worked on:
+
 - https://github.com/HospitalRun/hospitalrun-frontend/pull/665 - @amyrlam @alychloe
 - https://github.com/HospitalRun/design/issues/5 - @warain
 - https://github.com/HospitalRun/hospitalrun-frontend/pull/669 - @taras
@@ -35,6 +36,7 @@ Participated remotely:
 - https://github.com/HospitalRun/hospitalrun-frontend/pull/663 - @jscottchapman
 
 ## What we learned:
+
 - Both hosts cannot work
   - At least one host should be available to work directly with participants
   - At least one host should be focused on managing the event (making sure everyone knows where everything is, coordinating with catering, MCing the day, answering questions, getting things for people when needed, answering questions, etc)
